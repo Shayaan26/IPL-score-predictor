@@ -1,0 +1,1 @@
+Flask web application that predicts the score of a cricket team in the first innings of a match based on certain input parameters. Linear regression model is used which is trained on dataset of IPL matches.
